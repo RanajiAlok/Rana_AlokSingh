@@ -7,6 +7,6 @@
 -      insta link: https://www.instagram.com/rana__alok.09/
 
 <!---
-RanajiAlok/RanajiAlok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Rana_Alok/Rana_Alok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
