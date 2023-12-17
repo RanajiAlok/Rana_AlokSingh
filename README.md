@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alok Kumar Singh
 - ..I'm a student of Delhi Technological University(DTU)
-- 👀 I’m interested in web development
-- 🌱 I'm currently working with languages c++, html ,css and Java script
+- 👀 I’m interested in web development and Machine learning
+- 🌱 I'm currently working with languages c++, python, html ,css,Java script
 - 📫 How to reach me 
 -      Email: aloksingh4975@gmail.com
 -      insta link: https://www.instagram.com/rana__alok.09/
